@@ -1,0 +1,4 @@
+load("/Users/pietroviolo/Documents/Github/obituary/QC/Data/e_x_male_bdlc.RData")
+load("/Users/pietroviolo/Documents/Github/obituary/PAA2024/Data/dfagegender2018.RData")
+load("/Users/pietroviolo/Documents/Github/obituary/PAA2024/Data/dfagegender2019.RData")
+load("/Users/pietroviolo/Documents/Github/obituary/PAA2024/Data/dfagegender2018.RData")
